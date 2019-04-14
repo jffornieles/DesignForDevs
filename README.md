@@ -24,6 +24,6 @@ La elección de este tipo de diseño para la pantalla Mis Eventos, se debe a la 
 
 <div class="contenedor2">
 <img src="imgs/Enero.png"  width="150" />
-<img src="imgs/Valorar Música.png"  width="150" />
+<img src="imgs/Valorar Musica.png"  width="150" />
 </div>
 
