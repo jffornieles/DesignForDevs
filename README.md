@@ -15,6 +15,7 @@ información u otra.
 La elección de este tipo de diseño para la pantalla Mis Eventos, se debe a la posibilidad de que un mes concreto tengamos numerosos eventos a los que asistir. De este modo podemos hacer scroll vertical para ver los eventos que tenemos planificados para cada uno de los meses del año. El envento más próximo aparece más grande que el resto, y si queremos ver en detalle un mes concreto pulsaremos en **Ver todo >**, en el mes correspondiente.
 
 ## Wireframes
-<img src="imgs/Mis Eventos.png"  width="200"> <img src="imgs/Detalle Eventos.png"  width="200">
-<img src="imgs/Enero.png"  width="200"> <img src="imgs/Valorar Música.png"  width="200">
-
+<img src="imgs/Mis Eventos.png"  width="200"> 
+<img src="imgs/Detalle Eventos.png"  width="200">
+<img src="imgs/Enero.png"  width="200"> 
+<img src="imgs/Valorar Música.png"  width="200">
